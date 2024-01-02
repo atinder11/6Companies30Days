@@ -1,3 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+    
+
 class Solution {
 public:
     int minimizeSet(long long div1, long long div2, int cnt1, int cnt2)
@@ -23,7 +27,14 @@ public:
         }
         return ans;
     }
+
 };
+int main(){
+    
+    
+return 0;
+    
+}
 /* 6companies30days
 
 */
